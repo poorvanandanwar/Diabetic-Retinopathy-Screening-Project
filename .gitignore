@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data
+data/raw/
+data/interim/
+data/processed/images/
+
+# Large files
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
