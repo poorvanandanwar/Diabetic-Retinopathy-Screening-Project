@@ -1,0 +1,7 @@
+dataset,source_split,images,labeled_images,unreadable_images
+aptos,test,1928,0,0
+aptos,train,3662,3662,0
+eyepacs,train,35126,35126,0
+idrid,test,27,27,0
+idrid,train,54,54,0
+messidor2,unknown,1744,1744,0

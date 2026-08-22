@@ -1,0 +1,21 @@
+dataset,label_dr_standard,dr_grade_name,images
+aptos,0,No DR,1805
+aptos,1,Mild DR,370
+aptos,2,Moderate DR,999
+aptos,3,Severe DR,193
+aptos,4,Proliferative DR,295
+aptos,,,1928
+eyepacs,0,No DR,25810
+eyepacs,1,Mild DR,2443
+eyepacs,2,Moderate DR,5292
+eyepacs,3,Severe DR,873
+eyepacs,4,Proliferative DR,708
+idrid,1,Mild DR,2
+idrid,2,Moderate DR,34
+idrid,3,Severe DR,22
+idrid,4,Proliferative DR,23
+messidor2,0,No DR,1017
+messidor2,1,Mild DR,270
+messidor2,2,Moderate DR,347
+messidor2,3,Severe DR,75
+messidor2,4,Proliferative DR,35

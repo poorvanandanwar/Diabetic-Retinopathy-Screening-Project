@@ -1,0 +1,4 @@
+stage,status,reason
+Image quality features,Deferred,Full-dataset quality scan was too slow on the local laptop.
+Duplicate detection,Deferred,Full near-duplicate comparison was too slow on the local laptop.
+Image preprocessing,Deferred,Derived images will be generated later after quality review.
