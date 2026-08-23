@@ -1,0 +1,5 @@
+dataset,images,labeled_images,usable_model_images,official_quality_labels,dme_labels,lesion_masks
+aptos,5590,3662,3662,0,0,0
+eyepacs,35126,35126,35126,0,0,0
+idrid,81,81,81,0,81,81
+messidor2,1744,1744,1744,1744,1744,0

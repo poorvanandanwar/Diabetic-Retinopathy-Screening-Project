@@ -1,0 +1,6 @@
+topic,finding
+Class imbalance,Grade 0 is much more common than severe grades. Use class-aware methods during model development.
+Dataset size,EyePACS is substantially larger than the other datasets.
+Image resolution,Original image sizes differ across datasets; the processed 224×224 images provide a consistent input.
+Quality labels,MESSIDOR-2 has official gradability labels. Other datasets have missing official quality labels.
+Lesion masks,IDRiD has lesion masks; the other current datasets do not provide lesion masks.

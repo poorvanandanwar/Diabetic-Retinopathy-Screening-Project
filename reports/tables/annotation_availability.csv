@@ -1,5 +1,5 @@
-dataset,dr_grade,quality_label,dme_label,lesion_boxes,lesion_masks
-aptos,Available,Unknown,Not available,Not available,Not available
-eyepacs,Available,Unknown,Not available,Not available,Not available
-idrid,Available,Unknown,Available in disease-grading labels,Verify separately,Available in segmentation data
-messidor2,Available,Available: adjudicated_gradable,Available in source CSV,Not available,Not available
+dataset,dr_grade,quality_label,dme_label,lesion_masks
+aptos,Available,Missing in current files,Missing in current files,Not available
+eyepacs,Available,Missing in current files,Missing in current files,Not available
+idrid,Available,Missing in current files,Available: source-specific DME risk grade,Available: pixel-level masks
+messidor2,Available,Available: adjudicated_gradable,Available: adjudicated_dme,Not available in current download
