@@ -1,0 +1,9 @@
+quality_flag_auto,images
+pass,29452
+possibly_blurry,11441
+very_dark;possibly_blurry,941
+very_dark,405
+very_dark;low_contrast;possibly_blurry,241
+very_dark;low_contrast,27
+low_contrast;possibly_blurry,26
+low_contrast,8

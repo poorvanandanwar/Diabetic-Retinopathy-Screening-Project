@@ -1,0 +1,5 @@
+dataset,dr_grade,quality_label,dme_label,lesion_boxes,lesion_masks
+aptos,Available,Unknown,Not available,Not available,Not available
+eyepacs,Available,Unknown,Not available,Not available,Not available
+idrid,Available,Unknown,Available in disease-grading labels,Verify separately,Available in segmentation data
+messidor2,Available,Available: adjudicated_gradable,Available in source CSV,Not available,Not available
