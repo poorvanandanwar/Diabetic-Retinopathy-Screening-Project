@@ -1,0 +1,2 @@
+Model,Accuracy,Macro F1,Balanced Accuracy,QWK,MCC
+Joint Fine-Tuned Attention Fusion,0.7582,0.6831,0.7768,0.7633,0.5699

@@ -1,0 +1,7 @@
+DR Grade,ResNet-18 Branch Mean (Std),EfficientNet-B0 Branch Mean (Std),Sample Count
+Overall (All Classes),0.7608 ± 0.1651,0.2392 ± 0.1651,6092
+Grade 0 (No DR),0.7082 ± 0.1569,0.2918 ± 0.1569,4295
+Grade 1 (Mild),0.8843 ± 0.1015,0.1157 ± 0.1015,463
+Grade 2 (Moderate),0.8666 ± 0.1082,0.1334 ± 0.1082,1001
+Grade 3 (Severe),0.9117 ± 0.0846,0.0883 ± 0.0846,174
+Grade 4 (PDR),0.9900 ± 0.0268,0.0100 ± 0.0268,159
